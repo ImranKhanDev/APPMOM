@@ -1,0 +1,26 @@
+.cards {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.card {
+  /* background: red; */
+  display: flex;
+  align-items: center;
+  height: 300px;
+  width: 200px;
+  margin: 20px 15px;
+}
+
+.card i {
+  color: rgb(16, 16, 172);
+  border: none;
+  margin-bottom: 15px;
+}
+.card .hr {
+  border: 1px solid rgb(26, 26, 233);
+  margin: auto;
+  /* padding-top: 10px; */
+  width: 40%;
+}

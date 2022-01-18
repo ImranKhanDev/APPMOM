@@ -1,0 +1,46 @@
+.features {
+  color: #535353;
+}
+.features_content {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.features_header {
+  margin-bottom: 40px;
+}
+.left_features {
+  text-align: right;
+  line-height: 1.8;
+}
+.left_features p {
+}
+.right_features {
+  text-align: left;
+  line-height: 1.8;
+}
+.choosing_header h1 {
+  font-weight: 700;
+}
+.choosing_us_container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: #a79f9f;
+  line-height: 1.8;
+}
+.choosing_right {
+  text-align: left;
+}
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content .icon {
+  padding-right: 20px;
+}
+.content:hover .icon {
+  color: #2825b6;
+}
